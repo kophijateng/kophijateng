@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align = "center">
 
-[<img src="https://img.shields.io/badge/wedding-for-6fa5d1?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/weddingfor01/)
+[<img src="https://img.shields.io/badge/wedding-for-6fa5d1?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/kophijateng/)
 [<img src="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/>](https://wedding-for.github.io/)
 [<img src="https://img.shields.io/badge/Email-d54b3e?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:boscahya@gmail.com)
 
